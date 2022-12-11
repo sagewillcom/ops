@@ -1,5 +1,5 @@
 {
-	"name": "clearstair-ops",
+	"name": "sagewill-ops",
 	"version": "1.0.0",
 	"author": "Arrigo Lupori",
 	"license": "ISC",
@@ -16,6 +16,6 @@
 	"dependencies": {
 		"dotenv": "^8.2.0",
 		"express": "^4.17.1",
-		"nocodb": "^0.98.2"
+		"nocodb": "^0.100.2"
 	}
 }
